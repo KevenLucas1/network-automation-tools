@@ -12,4 +12,4 @@ Ferramenta desenvolvida em Python para automatizar varreduras de rede (Ping Swee
 2. Execute no terminal:
    ```bash
    python ping_sweep.py
-3.Informe os 3 primeiros octetos da rede quando solicitado.
+3. Informe os 3 primeiros octetos da rede quando solicitado.
