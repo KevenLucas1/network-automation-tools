@@ -1,2 +1,14 @@
-# network-automation-tools
-Script em Python para varredura de rede (Ping Sweep) e verificação rápida de hosts ativos.
+# 🌐 Python Ping Sweep (Verificador de Hosts)
+
+Ferramenta desenvolvida em Python para automatizar varreduras de rede (Ping Sweep) e identificar rapidamente quais endereços IP de uma faixa estão ativos.
+
+## 🚀 Tecnologias e Conceitos
+* **Linguagem:** Python 3
+* **Módulos Nativos:** `subprocess`, `platform`, `concurrent.futures` (Processamento em paralelo para alta velocidade).
+* **Área:** Automação de Infraestrutura e Redes.
+
+## ⚙️ Como executar
+1. Baixe o arquivo `ping_sweep.py`.
+2. Execute no terminal:
+   ```bash
+   python ping_sweep.py
